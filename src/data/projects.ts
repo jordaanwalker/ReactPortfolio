@@ -9,8 +9,8 @@ export const allProjects: Project[] = [
     technologies: ['React', 'Typescript', 'Tailwind CSS'], 
     category: 'Web',
     featured: true,
-    demoUrl: 'https://example.com/demo',
-    codeUrl: 'https://github.com/yourusername/ecommerce-project'
+    demoUrl: 'https://jordaanwalker.github.io/ReactPortfolio/',
+    codeUrl: 'https://github.com/jordaanwalker/ReactPortfolio'
   },
   {
     id: '2',
